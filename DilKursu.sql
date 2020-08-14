@@ -615,7 +615,7 @@ INSERT INTO public.ogrenci VALUES
 	(6, 1, 'Ahmet                         ', 'Kaygısız                      ', 'Taksit'),
 	(3, 1, 'Cemil                         ', 'İpek                          ', 'Taksit'),
 	(2, 6, 'Ali                           ', 'Kapısız                       ', 'Taksit'),
-	(1, 6, 'Abdurrahman                   ', 'Şapoğlu                       ', 'Pesin '),
+	(1, 6, 'Ali                   ', 'Veli                       ', 'Pesin '),
 	(4, 1, 'Gürsel                        ', 'Ak                            ', 'Pesin '),
 	(5, 10, 'Burak                         ', 'Baydili                       ', 'Pesin '),
 	(7, 6, 'Gülperi                       ', 'Limon                         ', 'Taksit'),
